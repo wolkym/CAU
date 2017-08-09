@@ -1,6 +1,6 @@
 \select@language {english}
 \contentsline {part}{1\hspace {1em}Introduction}{3}
-\contentsline {part}{2\hspace {1em}Marchenko-Pastur law}{7}
-\contentsline {part}{3\hspace {1em}Limiting theorems for non-constant covolatility process}{11}
-\contentsline {part}{4\hspace {1em}Simulation studies}{16}
-\contentsline {part}{5\hspace {1em}Conclusion}{19}
+\contentsline {part}{2\hspace {1em}Marchenko-Pastur law}{9}
+\contentsline {part}{3\hspace {1em}Limit theorems for non-constant covolatility processes}{14}
+\contentsline {part}{4\hspace {1em}Simulation studies}{23}
+\contentsline {part}{5\hspace {1em}Conclusion}{30}

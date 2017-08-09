@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.4)  2 AUG 2017 09:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.4)  9 AUG 2017 11:15
 entering extended mode
 **document.tex
 (document.tex
@@ -860,11 +860,11 @@ LaTeX Font Info:    ... okay on input line 58.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 60.
+LaTeX Font Info:    Try loading font information for U+msa on input line 59.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 60.
+LaTeX Font Info:    Try loading font information for U+msb on input line 59.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -873,96 +873,129 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (document.toc)
 \tf@toc=\write3
  [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 109.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 110.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 110.
  [3]
-<X3.png, id=32, 1012.78375pt x 431.6125pt>
+<X3.png, id=33, 1012.78375pt x 431.6125pt>
 File: X3.png Graphic file (type png)
  <use X3.png>
-Package pdftex.def Info: X3.png used on input line 164.
+Package pdftex.def Info: X3.png used on input line 173.
 (pdftex.def)             Requested size: 405.10632pt x 172.64194pt.
- [4 <./X3.png>] [5]
-[6] [7] <MP.png, id=51, 1008.76875pt x 430.60875pt>
+ [4] [5 <./X3.png>]
+[6] [7] [8] [9] <MP.png, id=58, 1008.76875pt x 430.60875pt>
 File: MP.png Graphic file (type png)
  <use MP.png>
-Package pdftex.def Info: MP.png used on input line 293.
+Package pdftex.def Info: MP.png used on input line 361.
 (pdftex.def)             Requested size: 403.50035pt x 172.24043pt.
- [8 <./MP.png>] [9] [10] [11] [12] [13] [14] [15] <XCos.png, id=79, 1136.245pt 
-x 431.6125pt>
-File: XCos.png Graphic file (type png)
 
-<use XCos.png>
-Package pdftex.def Info: XCos.png used on input line 500.
-(pdftex.def)             Requested size: 454.48994pt x 172.64194pt.
-
-Overfull \hbox (36.23627pt too wide) in paragraph at lines 500--501
- [] 
+[10] [11 <./MP.png>] [12] [13] [14] [15] [16] [17]
+Overfull \hbox (33.42427pt too wide) in paragraph at lines 574--575
+\T2A/cmr/bx/n/10.95 Lemma 3.12. \T2A/cmr/m/it/10.95 Sup-pose that for each $\OM
+L/cmm/m/it/10.95 p$\T2A/cmr/m/it/10.95 , $\OT1/cmr/bx/n/10.95 v[] \OT1/cmr/m/n/
+10.95 = (\OML/cmm/m/it/10.95 v[]; [] ; v[]\OT1/cmr/m/n/10.95 )[]$ \T2A/cmr/m/it
+/10.95 and $\OT1/cmr/bx/n/10.95 w[] \OT1/cmr/m/n/10.95 = (\OML/cmm/m/it/10.95 w
+[]; [] ; w[]\OT1/cmr/m/n/10.95 )[]$\T2A/cmr/m/it/10.95 ,
  []
 
-<XCos2.png, id=80, 1131.22626pt x 431.6125pt>
+[18] [19] [20] [21] [22] <XCos2.png, id=111, 1131.22626pt x 431.6125pt>
 File: XCos2.png Graphic file (type png)
- <use XCos2.png>
-Package pdftex.def Info: XCos2.png used on input line 510.
+
+<use XCos2.png>
+Package pdftex.def Info: XCos2.png used on input line 712.
 (pdftex.def)             Requested size: 452.48248pt x 172.64194pt.
 
-Overfull \hbox (34.2288pt too wide) in paragraph at lines 510--511
+Overfull \hbox (34.2288pt too wide) in paragraph at lines 712--713
  [] 
  []
 
-[16 <./XCos.png>] [17 <./XCos2.png>]
-<XCIR.png, id=90, 1096.095pt x 431.6125pt>
+<XCos.png, id=112, 1131.22626pt x 431.6125pt>
+File: XCos.png Graphic file (type png)
+ <use XCos.png>
+Package pdftex.def Info: XCos.png used on input line 733.
+(pdftex.def)             Requested size: 452.48248pt x 172.64194pt.
+
+Overfull \hbox (34.2288pt too wide) in paragraph at lines 733--734
+ [] 
+ []
+
+<Xcostimes.png, id=113, 1131.22626pt x 431.6125pt>
+File: Xcostimes.png Graphic file (type png)
+ <use Xcostimes.png>
+Package pdftex.def Info: Xcostimes.png used on input line 743.
+(pdftex.def)             Requested size: 452.48248pt x 172.64194pt.
+
+Overfull \hbox (34.2288pt too wide) in paragraph at lines 743--744
+ [] 
+ []
+
+[23 <./XCos2.png>] [24 <./XCos.png> <./Xcostimes.png>] [25]
+<XCIR.png, id=127, 1099.10625pt x 431.6125pt>
 File: XCIR.png Graphic file (type png)
  <use XCIR.png>
-Package pdftex.def Info: XCIR.png used on input line 559.
-(pdftex.def)             Requested size: 438.43024pt x 172.64194pt.
+Package pdftex.def Info: XCIR.png used on input line 800.
+(pdftex.def)             Requested size: 439.6347pt x 172.64194pt.
 
-Overfull \hbox (20.17656pt too wide) in paragraph at lines 559--560
+Overfull \hbox (21.38103pt too wide) in paragraph at lines 800--801
  [] 
  []
 
-[18 <./XCIR.png>] [19] (document.aux) ) 
+[26] [27 <./XCIR.png>]
+Overfull \hbox (2.51003pt too wide) in paragraph at lines 867--868
+[]\T2A/cmr/m/n/10.95 To con-struct a Pois-son pro-cess, we be-gin with a se-que
+nce of ar-rival times $\OML/cmm/m/it/10.95 []; []; [] $\T2A/cmr/m/n/10.95 ,
+ []
+
+[28] [29] [30] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 6790 strings out of 493698
- 95560 string characters out of 3144404
- 173937 words of memory out of 3000000
- 9939 multiletter control sequences out of 15000+200000
- 27400 words of font info for 69 fonts, out of 3000000 for 9000
+ 6834 strings out of 493698
+ 96013 string characters out of 3144404
+ 174060 words of memory out of 3000000
+ 9970 multiletter control sequences out of 15000+200000
+ 31897 words of font info for 83 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 36i,11n,75p,758b,413s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/d
-vips/cm-super/cm-super-t2a.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1095.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/cm-super/sfbx1095.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/cm-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-sup
-er/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx20
-74.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on document.pdf (19 pages, 1123312 bytes).
+ 36i,13n,75p,1201b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-
+super/cm-super-t2a.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/m
+sbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1095.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/cm-super/sfbx2074.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/cm-super/sfrm0600.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-su
+per/sfrm0800.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0
+900.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on document.pdf (30 pages, 1525465 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
+ 252 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

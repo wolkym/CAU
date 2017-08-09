@@ -160,7 +160,7 @@ def get_data_dep(n, p, time):
 
         for j in range(p):
             if U[j] == i:
-               dX_l[j] += 1
+                dX_l[j] += 1
 
         X[i + 1] = X[i] + dX_l
         dX = np.c_[dX, dX_l]
