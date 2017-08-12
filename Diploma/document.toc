@@ -2,8 +2,8 @@
 \contentsline {part}{1\hspace {1em}Introduction}{4}
 \contentsline {part}{2\hspace {1em}Marchenko-Pastur law}{10}
 \contentsline {part}{3\hspace {1em}Limit theorems for non-constant covolatility processes}{17}
-\contentsline {part}{4\hspace {1em}Stochastic volatility case}{29}
-\contentsline {part}{5\hspace {1em}Jump-diffusion processes}{31}
-\contentsline {part}{6\hspace {1em}Simulation studies}{35}
-\contentsline {part}{7\hspace {1em}Conclusion}{38}
-\contentsline {section}{Appendices}{39}
+\contentsline {part}{4\hspace {1em}Stochastic volatility case}{30}
+\contentsline {part}{5\hspace {1em}Jump-diffusion processes}{33}
+\contentsline {part}{6\hspace {1em}Simulation studies}{36}
+\contentsline {part}{7\hspace {1em}Conclusion}{39}
+\contentsline {section}{Appendices}{40}
