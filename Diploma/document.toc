@@ -1,9 +1,16 @@
 \select@language {english}
-\contentsline {part}{1\hspace {1em}Introduction}{4}
-\contentsline {part}{2\hspace {1em}Marchenko-Pastur law}{10}
-\contentsline {part}{3\hspace {1em}Limit theorems for non-constant covolatility processes}{17}
-\contentsline {part}{4\hspace {1em}Stochastic volatility case}{30}
-\contentsline {part}{5\hspace {1em}Jump-diffusion processes}{33}
-\contentsline {part}{6\hspace {1em}Simulation studies}{36}
-\contentsline {part}{7\hspace {1em}Conclusion}{39}
-\contentsline {section}{Appendices}{40}
+\contentsline {chapter}{\numberline {1}Introduction}{5}
+\contentsline {section}{\numberline {1.1}Motivation}{5}
+\contentsline {section}{\numberline {1.2}The relation between RCV and ICV}{7}
+\contentsline {chapter}{\numberline {2}Marchenko-Pastur law}{11}
+\contentsline {section}{\numberline {2.1}Empirical spectral distribution}{11}
+\contentsline {section}{\numberline {2.2}Non-constant volatility case}{15}
+\contentsline {chapter}{\numberline {3}Non-constant covolatility process}{19}
+\contentsline {section}{\numberline {3.1}Limiting distribution for realized covariance}{19}
+\contentsline {section}{\numberline {3.2}Time-variance adjusted realized covariance}{28}
+\contentsline {chapter}{\numberline {4}Stochastic volatility case}{37}
+\contentsline {chapter}{\numberline {5}Jump-diffusion processes}{39}
+\contentsline {chapter}{\numberline {6}Simulation studies}{43}
+\contentsline {chapter}{\numberline {A}Distribution function for Marchenko-Pastur law}{51}
+\contentsline {chapter}{\numberline {B}Python code}{53}
+\contentsline {part}{Bibliography}{61}
